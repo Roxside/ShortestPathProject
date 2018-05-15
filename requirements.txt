@@ -1,0 +1,4 @@
+numpy
+gmplot
+googlemaps
+geopy
