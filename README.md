@@ -48,5 +48,5 @@ pip install numpy
 
 ## Acknowledgments
 Lecturer Kostadin Kratchanov
-![](https://prnt.sc/jjvtay)
+!['o' output](https://prnt.sc/jjvtay)
 
