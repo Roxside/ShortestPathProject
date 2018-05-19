@@ -48,5 +48,5 @@ pip install numpy
 
 ## Acknowledgments
 Lecturer Kostadin Kratchanov
-!['o' output](https://prnt.sc/jjvtay)
+!['o' output](https://github.com/ilhans/Shortest-Path-and-Search-Algorithms/blob/master/img/index.png)
 
