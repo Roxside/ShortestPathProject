@@ -12,9 +12,11 @@ Used Algorithms:
 -A* Algorithm 
 -Iterative Deepening
 ```
+Those algorithms find the shortest path information of two cities with given connection information between cities. After finding shortest path this program will show the path on map. It also has a function that excludes a city from the map and new shortest path can be found around this city.
+
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
