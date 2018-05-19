@@ -47,6 +47,6 @@ pip install numpy
 * **Caner Hekimoğlu** - *Initial work* - [Roxside](https://github.com/Roxside)
 
 ## Acknowledgments
-
-
+Lecturer Kostadin Kratchanov
+![](https://prnt.sc/jjvtay)
 
